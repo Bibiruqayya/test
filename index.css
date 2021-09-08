@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  background-color: MistyRose;
+}
+
+.topnav{
+  background-color: Thistle;
+  margin-top: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+.topnav a{
+  display: block;
+  padding: 14px 16px;
+  color: white;
+  text-decoration: none;
+  float: left;
+}
+.topnav a:hover{
+  background-color: Thistle;
+  color: black;
+}
+img{
+  margin-left: 100px;
+}
+
+
+
+.footer{
+  background-color: pink;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+  height: 100px;
+}
+
+.mediz-icons a{
+  color:#fff
+  font-size:25px;
+  margin-right: 30px;
+}
